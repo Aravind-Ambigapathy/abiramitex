@@ -93,7 +93,7 @@ const TextileBusinessPage: React.FC = () => {
       <section className="bg-gray-900 text-white py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold mb-6">Contact Us</h2>
         <p className="mb-2">📍 Location: Salem, Tamil Nadu</p>
-        <p className="mb-2">📞 Phone: +91 9087751156</p>
+        <p className="mb-2">📞 Phone: +91 9443251156</p>
         <p>📧 Email: abitexsalem@gmail.com</p>
       </section>
 
